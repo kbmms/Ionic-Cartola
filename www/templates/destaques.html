@@ -1,0 +1,29 @@
+<ion-view view-title="CARTOLA BR">
+<ion-content>
+
+
+      <div class="blocks" ng-hide="items == &apos;&apos;">
+        <div class="container-text-and-icon row">
+
+        <div class="col col-10">
+
+          <i class="icon ion-android-arrow-up"></i>
+
+        </div>
+ <h5>CONFIRA OS DESTAQUES DA RODADA!</h5>
+
+        </div>
+        <div class="item item-thumbnail-left" href="#" ng-repeat="destaque in destaques">
+      <img src="{{ destaque.Atleta.foto.replace(&apos;FORMATO&apos;, &apos;140x140&apos;)}}">
+      <h2>{{destaque.Atleta.apelido}}</h2>
+      <div class="destaques-clubes">
+      <img src="{{ destaque.escudo_clube }}">
+      </div>
+       <p>{{destaque.Atleta.preco_editorial | currency}}</p>
+      <p>Escala&#xE7;&#xF5;es: {{destaque.escalacoes}}</p>
+
+     <p>Posi&#xE7;&#xE3;o {{destaque.posicao}}</p>
+    </div>
+    </div>
+</ion-content>
+</ion-view>

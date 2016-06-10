@@ -1,0 +1,295 @@
+/* Empty. Add your own CSS if you like */
+.item2 p {
+    color: #8B8C8A;
+    font-size: 10px;
+    margin-bottom: 2px;
+    text-transform: uppercase;
+    line-height: 12px;
+    font-weight: bolder;
+}
+.pane {
+    background-color: #EFEACE;
+}
+div.item2 {
+    color: inherit;
+    text-decoration: none;
+    background-color: #FFF;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.32);
+}
+.bar-header {
+    top: 0;
+    border-top-width: 0;
+    border-bottom-width: 0px;
+}
+.bar.bar-stable .title {
+    text-align: center;
+
+}
+.bar.bar-stable {
+    border-color: #C359B8;
+    background-color: rgb(122, 226, 149);
+    background-image: linear-gradient(0deg, #b2b2b2, #b2b2b2 50%, transparent 50%);
+
+}
+.bar.bar-stable .title {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.item2-thumbnail-left > img:first-child{
+    top: 22px;
+}
+.item2 h2 {
+    margin: 0 0 2px 0;
+    font-size: 16px;
+    font-weight: bolder;
+    color: #000;
+    text-transform: uppercase;
+}
+.item2 {
+    border:none;
+}
+.blocks h1 {
+    text-align: left;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+/*ICONES*/
+.ion-android-arrow-up:before {
+    color: #7FB47F;
+    font-size: 17px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+@-webkit-keyframes uil-reload-css {
+  0% {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -ms-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
+  100% {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes uil-reload-css {
+  0% {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -ms-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
+  100% {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-moz-keyframes uil-reload-css {
+  0% {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -ms-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
+  100% {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-ms-keyframes uil-reload-css {
+  0% {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -ms-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
+  100% {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-moz-keyframes uil-reload-css {
+  0% {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -ms-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
+  100% {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes uil-reload-css {
+  0% {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -ms-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
+  100% {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-o-keyframes uil-reload-css {
+  0% {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -ms-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
+  100% {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes uil-reload-css {
+  0% {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -ms-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
+  100% {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+.uil-reload-css {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto
+}
+.uil-reload-css > div {
+  -ms-animation: uil-reload-css 1s linear infinite;
+  -moz-animation: uil-reload-css 1s linear infinite;
+  -webkit-animation: uil-reload-css 1s linear infinite;
+  -o-animation: uil-reload-css 1s linear infinite;
+  animation: uil-reload-css 1s linear infinite;
+  display: block;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 160px;
+  height: 160px;
+  border-radius: 100px;
+  border: 20px solid #2fc296;
+  border-top: 20px solid rgba(0,0,0,0);
+  border-right: 20px solid #2fc296;
+  border-bottom: 20px solid #2fc296;
+}
+.uil-reload-css > div:after {
+  content: " ";
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 0 30px 30px 30px;
+  border-color: transparent transparent #2fc296 transparent;
+  display: block;
+  -ms-transform: translate(-15px, 0) rotate(45deg);
+  -moz-transform: translate(-15px, 0) rotate(45deg);
+  -webkit-transform: translate(-15px, 0) rotate(45deg);
+  -o-transform: translate(-15px, 0) rotate(45deg);
+  transform: translate(-15px, 0) rotate(45deg);
+}
+
+.destaques-clubes img {
+    width: 20px;
+}
